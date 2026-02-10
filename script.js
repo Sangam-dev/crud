@@ -1,4 +1,5 @@
 $(document).ready(function () {
+
     const $inputBox = $('#input');
     const $listContainer = $('#list-container');
 
@@ -21,4 +22,5 @@ $(document).ready(function () {
 
         $inputBox.val('');
     });
+
 });
